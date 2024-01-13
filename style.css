@@ -1,0 +1,84 @@
+/* Global styles */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #fff;
+}
+
+/* Header styles */
+
+.header {
+  background-color: #428bca;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.header p {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+/* Main content styles */
+
+.main {
+  padding: 20px;
+}
+
+.server-info {
+  float: left;
+  width: 60%;
+  margin-right: 20px;
+}
+
+.screenshots {
+  float: right;
+  width: 30%;
+}
+
+/* Server info styles */
+
+.server-info h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.server-info p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.server-info h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.server-info ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.server-info li {
+  font-size: 16px;
+  line-height: 1.5;
+}
+/* Footer styles */
+
+.footer {
+  background-color: #428bca;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer p {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+
